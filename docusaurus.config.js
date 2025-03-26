@@ -83,6 +83,7 @@ const config = {
           {
         copyright: `Copyright © ${new Date().getFullYear()} tsaqibfs. Built with Docusaurus.`,
       },
+    ],
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
